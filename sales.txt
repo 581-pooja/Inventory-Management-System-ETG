@@ -1,0 +1,28 @@
+Date of the Transactions is: Mon Sep  6 19:25:10 2021
+Transacion Id: Product Id: Product Name: Customer Name: Quantity: Amount Paid 
+**************************************************************
+
+1		1020		 Turmeric		 Pooja		 20		 450
+
+2		1023		 Pumpkin		 Sid		 20		 570
+
+3		1034		 pineapple		 Aditya		 30		 4050
+
+4		1025		 oatmeal cookie		 Guddi		 20		 2175
+
+5		1012		 Potato Chips		 Girish		 10		 100
+
+6		1005		 cake		 kavita		 20		 240
+
+7		1002		 Fanta		 Ravi		 20		 3200
+
+8		1008		 jackfruit		 Priyanka		 34		 288
+
+9		1009		 grapes		 Rohit		 30		 900
+
+10		1025		 oatmeal cookie		 Raghu		 5		 725
+
+11		1023		 Pumpkin		 Neha		 10		 570
+**************************************************************
+Total Sales of the day is: 13268
+**************************************************************
