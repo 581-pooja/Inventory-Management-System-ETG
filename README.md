@@ -58,5 +58,5 @@ I'm Pooja Bhagat currently Intern in Elite Techno groups. I like Machine learnin
 ## 🔗 Links
 
 
-linkedin - https://www.linkedin.com/in/pooja-bhagat-6282871a3
-Instagram - https://www.instagram.com/pooja_bhagat581/
+- linkedin - https://www.linkedin.com/in/pooja-bhagat-6282871a3
+- Instagram - https://www.instagram.com/pooja_bhagat581/
